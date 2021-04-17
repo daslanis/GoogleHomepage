@@ -9,3 +9,5 @@ There are some known issues with it that I can't be bothered to fix as well as s
 • Probably many more...
 
 You may play with it / try to fix the things mentioned above but do not republish it with "Aslanis" in it.
+
+<a href="https://daslanis.github.io/GoogleHomepage/"> Live Preview </a>
